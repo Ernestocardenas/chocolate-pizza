@@ -1,0 +1,72 @@
+body {
+    width: 960px;
+}
+
+h2 {
+    font-family: 'Yellowtail', cursive;
+}
+
+header nav {
+    width: 960px;
+    margin: auto;
+}
+
+header>nav>ul>a {
+    float: right;
+}
+
+.logo {
+    float: left;
+    margin: 0px;
+}
+
+.words {
+    float: left;
+    display: block;
+}
+
+main {
+    display: block;
+    position: relative;
+}
+
+main p {
+    width: 960px;
+}
+
+main h1 {
+    float: left;
+}
+
+.chocolate p {
+    display: inline-block;
+    margin: 0px;
+    text-align: left;
+    margin-top: 0px;
+}
+
+.chocolate img {
+    float: right;
+}
+
+.print p {
+    text-align: right;
+}
+
+.print img {
+    float: right;
+}
+
+.vanessa {
+    float: left;
+}
+
+footer {
+    text-align: center;
+    position: absolute;
+    margin-top: 120px;
+}
+
+hr {
+    width: 960px;
+}
